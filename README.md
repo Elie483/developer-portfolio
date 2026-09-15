@@ -2,7 +2,7 @@
 
 A personal portfolio website showcasing my projects, skills, and experience as a Full-Stack Developer. Built to be fast, accessible, and easy to keep up to date.
 
-**Live site:** [add your deployed URL here once live]
+**Live site:** https://developer-portfolio-three-gules.vercel.app/
 
 ---
 
